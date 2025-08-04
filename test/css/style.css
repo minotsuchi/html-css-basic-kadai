@@ -1,0 +1,51 @@
+body {
+  font-family: FOT-TsukuARdGothic Std;
+  font-size: 16px;
+}
+
+main {
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+  color: rgb(10, 32, 78);
+}
+
+
+.flexbox-approach {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.approach-area
+
+
+
+
+
+
+
+/* approach要素 */
+
+/* uservoice要素 */
+
+/* product要素 */
+
+/* whatbrand?要素 */
+
+/* company要素 */
+
+/* shopping要素 */
+
+/* LINEUP要素 */
+
+/* footer要素 */
+
+footer {
+  text-align: center;
+}
+
+.footer-copy {
+  text-align: center;
+  margin: 30px auto 30px;
+}
