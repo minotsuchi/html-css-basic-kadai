@@ -10,42 +10,83 @@ main {
   color: rgb(10, 32, 78);
 }
 
+/* MV */
+.mv {
+  background-image: url(/images/mv-main.jpg);
+}
 
+
+/* approach要素 */
 .flexbox-approach {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 
-.approach-area
-
-
-
-
-
 
 
 /* approach要素 */
+.flexbox-approach-area {
+  background-image: url(/images/approach_contents3.png);
+}
+
+
+
 
 /* uservoice要素 */
+.usersvoice {
+  background-image: url(/images/uservoice-background.jpg);
+}
+
 
 /* product要素 */
+.product {
+  background-image: url(/images/product-background.jpg);
+}
+
+
 
 /* whatbrand?要素 */
+.whatbrand {
+  background-image: url(/images/brand_L.png), url(/images/brand_R.png);
+  background-repeat: no-repeat;
+  background-position: left top, right top;
+}
+
+
 
 /* company要素 */
+.company {
+  background-image: url(/images/company_background.jpg);
+  background-repeat: no-repeat;
+}
+
+
 
 /* shopping要素 */
+.shopping {
+  background-image: url(/images/shopping_background.jpg);
+}
+
 
 /* LINEUP要素 */
 
-/* footer要素 */
 
+
+
+/* footer要素 */
 footer {
+  background-image: url(/images/footer.png);
   text-align: center;
 }
 
+
+.footer-link {
+  color: rgb(66, 159, 192);
+  list-style: none;
+}
+
 .footer-copy {
+    color: rgb(66, 159, 192);
   text-align: center;
-  margin: 30px auto 30px;
 }
